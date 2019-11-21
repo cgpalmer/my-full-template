@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+#logo {
+    float: left;
+    margin-left: 5%;
+    width: 30px;
+
+}
+
+nav a{
+    float: right;
+}
